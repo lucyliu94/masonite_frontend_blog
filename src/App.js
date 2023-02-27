@@ -22,7 +22,7 @@ function App(props) {
   };
 
   // Our Api Url
-  const url = "https://blog-masonite-backend-ll.herokuapp.com/blog/";
+  const url = "https://masoniteblog-backend-ll.onrender.com/blog/";
 
   // State to Hold The List of BlogPosts
   const [posts, setPosts] = useState([]);
